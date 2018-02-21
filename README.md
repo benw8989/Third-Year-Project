@@ -2,3 +2,6 @@ Third year project
 This project contains a compressed folder that has the source code for my first year project. It also contains a PDF copy of my dissertation which will walk you through what the project is and does.
 
 To view the project you can see it here on this URL (will be updated soon)
+
+To view my dissertation unzip file, and it will be contained inside the test folder as a pdf file.
+
