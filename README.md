@@ -3,5 +3,5 @@ This project contains a compressed folder that has the source code for my first 
 
 To view the project you can see it here on this URL (will be updated soon)
 
-To view my dissertation unzip file, and it will be contained inside the test folder as a pdf file.
+To view my dissertation click on the PDF named Copy of Ben_Wilson.2016-04-17.040457 (1).pdf .
 
